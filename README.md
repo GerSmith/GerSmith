@@ -32,7 +32,7 @@
 - 🔍 [**Conveyor Parts Counter**](https://github.com/GerSmith/Conveyor_Parts_Counter_with_OpenCV_and_Modbus)  
   Подсчёт деталей и распознавание маркировки на конвейере с применением, данные передаются в ПЛК по **Modbus**. 
 
-- ⚙️ [**Mitsubishi CNC PRM Parser**](https://github.com/GerSmith/mitsubishi_cnc_prm_parser)
+- ⚙️ [**Mitsubishi CNC PRM Parser**](https://github.com/GerSmith/mitsubishi_cnc_prm_parser)  
   Инструмент для миграции и резервного копирования параметров станков Mitsubishi M700/800.
   
 - 📡 [**Raspberry_Pi_PLC_data_transfer**](https://github.com/GerSmith/Raspberry_Pi_PLC_data_transfer)  
