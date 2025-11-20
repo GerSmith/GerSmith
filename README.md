@@ -38,7 +38,7 @@
 - 📡 [**Raspberry_Pi_PLC_data_transfer**](https://github.com/GerSmith/Raspberry_Pi_PLC_data_transfer)  
   Передача данных от **Raspberry Pi** к ПЛК через **Modbus RTU**.
 
-- 🖥️ [**delta_servo_ab_control**](https://github.com/GerSmith/delta_servo_ab_control)
+- 🖥️ [**delta_servo_ab_control**](https://github.com/GerSmith/delta_servo_ab_control)  
   Управление сервоприводом Delta ASDA-AB через Modbus RTU
   
 - 📊 **Модернизация промышленного оборудования**  
